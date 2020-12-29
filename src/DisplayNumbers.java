@@ -20,5 +20,16 @@ public class DisplayNumbers {
                 System.out.println(i);
             }
         }
+
+
+        System.out.println("----------- zadanie 3 ------------");
+        char a = 'a';
+        char z = 'z';
+//        System.out.println((int)a);
+//        System.out.println((int)z);
+
+        for(int i = 'a'; i <= 'z'; i++){
+            System.out.println((char)i);
+        }
     }
 }
